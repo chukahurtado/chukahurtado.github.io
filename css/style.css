@@ -1,0 +1,9 @@
+.fondo {
+    background: rgb(255, 28, 69);
+    background: radial-gradient(circle, rgba(255, 28, 69, 1) 61%, rgba(233, 148, 148, 1) 100%);
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 50%;
+}
